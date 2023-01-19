@@ -45,15 +45,10 @@ except URLError as e:
   streamlit.error()
   
 #streamlit.text(fruityvice_response.json())
-
-
 # write your own comment -what does the next line do? 
-
-
-
 # write your own comment - what does this do?
-
 #dont run anything past here while we troubleshoot
-streamlit.stop()
+
+#streamlit.stop()
 
 streamlit.header("The fruit load list contains:")
